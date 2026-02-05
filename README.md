@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Order Management App (Frontend)
+# 🍔 Food Delivery Order Management App
 
 A modern **Food Delivery Order Management** application built using **React + Vite + Tailwind CSS**.  
 This project demonstrates a simplified food ordering workflow including menu browsing, cart management, checkout, and real-time order status tracking.
